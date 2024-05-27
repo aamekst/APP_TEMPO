@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="_30_c">30º C</string>
+    <string name="buscar_cidade">Buscar Cidade</string>
+    <string name="info_view">Informações</string>
+    <string name="brasil_rio_de_janeiro">Brasil - Rio de Janeiro\n</string>
+    <string name="buscar">Buscar</string>
+</resources>
